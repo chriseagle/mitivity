@@ -1,5 +1,5 @@
 # mitivity
-A task oriented application with time tracking built in.
+A task oriented todo application with time tracking built in.
 
 ## Todo
 Persistent state storage, localStorage, then perhaps a NoSQL solution like Firebase.
