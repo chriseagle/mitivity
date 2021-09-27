@@ -1,4 +1,8 @@
 # mitivity
+A task oriented application with time tracking built in.
+
+## Todo
+Persistent state storage, localStorage, then perhaps a NoSQL solution like Firebase.
 
 ## Project setup
 ```
@@ -19,6 +23,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
